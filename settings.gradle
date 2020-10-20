@@ -1,0 +1,3 @@
+include ':app'
+include ':screen_component'
+rootProject.name = "ScreenComponent"
